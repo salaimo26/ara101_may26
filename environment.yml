@@ -1,0 +1,15 @@
+name: ar101_doppio
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - cartopy
+  - xarray
+  - pandas
+  - jupyterlab
+  - dask
+  - bottleneck
+  - netcdf4
+
