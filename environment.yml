@@ -4,12 +4,11 @@ channels:
   - defaults
 dependencies:
   - python=3.10
-  - numpy
-  - cartopy
-  - xarray
-  - pandas
-  - jupyterlab
-  - dask
-  - bottleneck
-  - netcdf4
-
+  - numpy=2.2.6
+  - cartopy=0.25.0
+  - xarray=2025.6.1
+  - pandas=2.3.3
+  - jupyterlab=4.5.7
+  - dask=2026.3.0
+  - bottleneck=1.6.0
+  - netcdf4=1.7.4
